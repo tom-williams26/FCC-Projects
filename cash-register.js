@@ -1,13 +1,13 @@
 var calculateChange = function (changeRemaining, changeInDrawer) {
 	const denomination = {
-		PENNY: 1,
-		NICKEL: 5,
-		DIME: 10,
-		QUARTER: 25,
-		ONE: 100,
-		FIVE: 500,
-		TEN: 1000,
-		TWENTY: 2000,
+		'PENNY': 1,
+		'NICKEL': 5,
+		'DIME': 10,
+		'QUARTER': 25,
+		'ONE': 100,
+		'FIVE': 500,
+		'TEN': 1000,
+		'TWENTY': 2000,
 		'ONE HUNDRED': 10000,
 	};
 
@@ -66,8 +66,7 @@ var checkCashRegister = function (price, cash, cid) {
 	// 	'. total change in register:',
 	// 	totalCid
 	// );
-	//console.log(changeReturned);
-  
+	console.log(changeReturned);
 	if (leftOverChange > 0) {
 		return registerStatus.insufficient_funds;
 	}
