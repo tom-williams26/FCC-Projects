@@ -144,3 +144,4 @@ var test5 = checkCashRegister(19.5, 20, [
 	['ONE HUNDRED', 0],
 ]);
 console.log('Test 5:', test5);
+
