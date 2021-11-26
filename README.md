@@ -3,8 +3,6 @@ A portfolio of projects consisting of vanilla JavaScript.
 
 Over the past 6 months I have been taking Free Code Camp's Algorithms & Data Structures course. I have learnt so much by taking this course and using external resources like MDN and W3schools. 
 
-## NOTE: I still have the two projects left to complete being the Telephone number Validator (US) and a cash register to build.
-
 ## The course included: 
 
 Basic JavaScript - Learning the fundamental programming concepts and using basic data structures.
